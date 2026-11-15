@@ -1,0 +1,6 @@
+blender/renders/
+blender/*.blend1
+blender/__pycache__/
+reels/
+.claude/
+.playwright-mcp/
